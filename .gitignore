@@ -1,0 +1,34 @@
+# Arduino IDE
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+build/
+*.elf
+*.hex
+
+# Build artifacts
+bin/
+obj/
+dist/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# OS files
+Thumbs.db
+.AppleDouble
+.LSOverride

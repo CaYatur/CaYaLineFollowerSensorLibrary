@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map - CaYaLineFollowerSensor
+#######################################
+
+#######################################
+# Sınıflar (KEYWORD1)
+#######################################
+CaYaLineFollowerSensor	KEYWORD1
+
+#######################################
+# Metodlar (KEYWORD2)
+#######################################
+begin	KEYWORD2
+adcOku	KEYWORD2
+oku	KEYWORD2
+okuHam	KEYWORD2
+okuKenar	KEYWORD2
+deger	KEYWORD2
+dizi	KEYWORD2
+hata	KEYWORD2
+pozisyon	KEYWORD2
+zeminTipi	KEYWORD2
+zeminAyarla	KEYWORD2
+otomatikZeminAyarla	KEYWORD2
+gurultuEsigiAyarla	KEYWORD2
+zeminEsikleriAyarla	KEYWORD2
+sagaDonusVar	KEYWORD2
+solaDonusVar	KEYWORD2
+
+#######################################
+# Sabitler (LITERAL1)
+#######################################
+ZEMIN_BEYAZ	LITERAL1
+ZEMIN_SIYAH	LITERAL1
