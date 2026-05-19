@@ -1,5 +1,3 @@
-// https://cayadev.com
-
 # CaYaLineFollowerSensor
 
 [TÜRKÇE](#tr) | [ENGLISH](#en)
